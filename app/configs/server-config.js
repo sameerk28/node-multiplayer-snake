@@ -4,13 +4,13 @@ const ServerConfig = {
     MIN_FPS: 8,
     STARTING_FPS: 8,
     MAX_FPS: 60,
-    PLAYER_STARTING_LENGTH: 10,
+    PLAYER_STARTING_LENGTH: 5,
     SPAWN_TURN_LEEWAY: 10,
     DEFAULT_STARTING_BOTS: 0,
     MAX_BOTS: 20,
     BOT_CHANGE_DIRECTION_PERCENT: 0.1,
     FOOD: {
-        DEFAULT_AMOUNT: 25,
+        DEFAULT_AMOUNT: 100,
         NORMAL: {
             TYPE: 'NORMAL',
             COLOR: 'red',
